@@ -14,7 +14,7 @@ The final result is shown in the txt file (tidy.txt).
 B) This CodeBook containing the result of data fields in tidy.txt.
 
 
-###a) Identifiers
+###i) Identifiers
 
 There are 2 identifiers in the analysis:
 
@@ -28,7 +28,7 @@ The type of activity performed when the corresponding measurements were taken
 The ID of the test subject
 
 
-###b) Measurements
+###ii) Measurements
 
 There are total of 79 measurements were taken as below:
 
@@ -113,7 +113,7 @@ There are total of 79 measurements were taken as below:
 * fBodyBodyGyroJerkMagMeanFreq
 
 
-###c) Activity Labels
+###iii) Activity Labels
 
 * Value 1 (WALKING): subject was walking during the test
 * Value 2 (WALKING_UPSTAIRS): subject was walking up a staircase during the test
