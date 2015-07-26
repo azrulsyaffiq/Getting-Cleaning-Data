@@ -1,3 +1,15 @@
+This is the course project for the Getting and Cleaning Data course. The R script (run_analysis.R) run as below:
+
+Download the dataset from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+Load the activity and feature info from the dataset zipfile
+Loads the train and test datasets, keeping only those columns which reflect a mean or standard deviation
+Loads the activity and subject data for each dataset. Next merge those columns with the dataset
+Merges the two datasets
+Converts the activity and subject columns into factors
+Create a tidy dataset that consists of the average (mean) value of each variable for each activity and each subject.
+The final result is shown in the txt file (tidy.txt).
+
+
 This CodeBook containing the result of data fields in tidy.txt.
 
 
